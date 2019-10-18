@@ -120,7 +120,7 @@ uncheckedCheckBoxColor | PropTypes.string | true |   | Tint color of the uncheck
 
 Issues are welcome. Please add a screenshot of bug and code snippet. Quickest way to solve issue is to reproduce it on one of the examples.
 
-Pull requests are welcome. If you want to change API or making something big better to create issue and discuss it first.
+Pull requests are welcome. If you want to change the API or make something big, then please open an issue so we can discuss it.
 
 ---
 
